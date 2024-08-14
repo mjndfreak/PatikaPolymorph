@@ -1,0 +1,14 @@
+/Users/cagdasergenc/RiderProjects/PatikaPolymorph/PatikaPolymorph/bin/Debug/net8.0/PatikaPolymorph
+/Users/cagdasergenc/RiderProjects/PatikaPolymorph/PatikaPolymorph/bin/Debug/net8.0/PatikaPolymorph.deps.json
+/Users/cagdasergenc/RiderProjects/PatikaPolymorph/PatikaPolymorph/bin/Debug/net8.0/PatikaPolymorph.runtimeconfig.json
+/Users/cagdasergenc/RiderProjects/PatikaPolymorph/PatikaPolymorph/bin/Debug/net8.0/PatikaPolymorph.dll
+/Users/cagdasergenc/RiderProjects/PatikaPolymorph/PatikaPolymorph/bin/Debug/net8.0/PatikaPolymorph.pdb
+/Users/cagdasergenc/RiderProjects/PatikaPolymorph/PatikaPolymorph/obj/Debug/net8.0/PatikaPolymorph.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/PatikaPolymorph/PatikaPolymorph/obj/Debug/net8.0/PatikaPolymorph.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/PatikaPolymorph/PatikaPolymorph/obj/Debug/net8.0/PatikaPolymorph.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/PatikaPolymorph/PatikaPolymorph/obj/Debug/net8.0/PatikaPolymorph.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/PatikaPolymorph/PatikaPolymorph/obj/Debug/net8.0/PatikaPolymorph.dll
+/Users/cagdasergenc/RiderProjects/PatikaPolymorph/PatikaPolymorph/obj/Debug/net8.0/refint/PatikaPolymorph.dll
+/Users/cagdasergenc/RiderProjects/PatikaPolymorph/PatikaPolymorph/obj/Debug/net8.0/PatikaPolymorph.pdb
+/Users/cagdasergenc/RiderProjects/PatikaPolymorph/PatikaPolymorph/obj/Debug/net8.0/PatikaPolymorph.genruntimeconfig.cache
+/Users/cagdasergenc/RiderProjects/PatikaPolymorph/PatikaPolymorph/obj/Debug/net8.0/ref/PatikaPolymorph.dll
